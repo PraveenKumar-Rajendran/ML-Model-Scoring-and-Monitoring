@@ -1,0 +1,1 @@
+*/10 * * * * /home/work/miniconda3/envs/monitoring/bin/python3 /home/work/practice_ops/Projects/project4-starter-file/fullprocess.py
